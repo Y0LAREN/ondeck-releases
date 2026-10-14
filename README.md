@@ -1,4 +1,7 @@
-# On Deck — установщики
+<p align="center"><img src="assets/ondeck-icon.png" width="128" alt="On Deck"></p>
+<h1 align="center">On Deck</h1>
+<p align="center"><b>Все сессии Claude Code — под рукой.</b><br>All your Claude Code sessions. On deck.</p>
+<p align="center"><a href="https://github.com/Y0LAREN/ondeck-releases/releases/latest"><b>⬇️ Скачать последнюю версию</b></a> · Windows и macOS · бесплатно</p>
 
 On Deck (раньше назывался Claude Hub) — настольное приложение, которое показывает все запущенные сессии Claude Code в одном окне: какая сессия
 работает, какая ждёт ответа, сколько занято контекста, и присылает уведомления.
