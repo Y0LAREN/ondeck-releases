@@ -1,7 +1,7 @@
 <p align="center"><img src="assets/ondeck-icon.png" width="128" alt="On Deck"></p>
 <h1 align="center">On Deck</h1>
-<p align="center"><b>Все сессии Claude Code — под рукой.</b><br>All your Claude Code sessions. On deck.</p>
-<p align="center"><a href="https://github.com/Y0LAREN/ondeck-releases/releases/latest"><b>⬇️ Скачать последнюю версию</b></a> · Windows и macOS · бесплатно</p>
+<p align="center"><b>On Deck for Claude Code</b> — see every Claude Code session on one board, get notified when one needs you, and jump to the right terminal.<br>Все сессии Claude Code — под рукой.</p>
+<p align="center"><a href="https://socialgols.ru/on-deck/?ref=github"><b>Website</b></a> · <a href="https://github.com/Y0LAREN/ondeck-releases/releases/latest"><b>⬇️ Download / Скачать</b></a> · macOS &amp; Windows · free</p>
 
 On Deck (раньше назывался Claude Hub) — настольное приложение, которое показывает все запущенные сессии Claude Code в одном окне: какая сессия
 работает, какая ждёт ответа, сколько занято контекста, и присылает уведомления.
